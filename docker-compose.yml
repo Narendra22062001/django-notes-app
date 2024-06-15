@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : narendra22062001/my-note-app:latest
+     image : narendra22062001/django-notes-app:latest
      ports :
          - "8000:8000"
